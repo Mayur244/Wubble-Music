@@ -1,4 +1,3 @@
-"use client"
 
 import { createContext, useContext, useState, useEffect } from "react"
 import { musicService } from "../services/musicService"

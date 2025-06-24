@@ -1,4 +1,4 @@
-"use client"
+
 import { useMusicContext } from "../../context/MusicContext"
 
 const LikedTracks = () => {
